@@ -1,8 +1,8 @@
 {
-  "name": "mmm-template",
+  "name": "mmm-sweetgemini",
   "version": "1.0.0",
   "description": "[Module description]",
-  "main": "MMM-Template.js",
+  "main": "MMM-SweetGemini.js",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
@@ -13,12 +13,12 @@
     "url": "git+[GitHub url].git"
   },
   "keywords": [
-    "template"
+    "sweetgemini"
   ],
   "author": "[Author]",
   "license": "MIT",
   "bugs": {
-    "url": "[GitHub url]/issues"
+    "url": "https://github.com/issues"
   },
   "homepage": "[GitHub url]#readme",
   "devDependencies": {
