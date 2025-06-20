@@ -17,7 +17,7 @@ In your terminal, go to your [MagicMirror²][mm] Module folder and clone MMM-Swe
 
 ```bash
 cd ~/MagicMirror/modules
-git clone [GitHub url]
+git clone https://github.com/lacymj/MMM-SweetGemini
 ```
 
 ### Update

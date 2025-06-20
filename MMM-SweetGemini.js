@@ -8,7 +8,7 @@ Module.register("MMM-SweetGemini", {
    * Apply the default styles.
    */
   getStyles() {
-    return ["MMM-SweetGemini.css"]
+    return ["sweetgemini.css"]
   },
 
   /**

@@ -1,7 +1,7 @@
 {
   "name": "mmm-sweetgemini",
   "version": "1.0.0",
-  "description": "[Module description]",
+  "description": "Sweet Gemini Module for MagicMirror²",
   "main": "MMM-SweetGemini.js",
   "scripts": {
     "lint": "eslint .",
@@ -10,17 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+[GitHub url].git"
+    "url": "git+https://github.com/lacymj/MMM-SweetGemini.git"
   },
   "keywords": [
     "sweetgemini"
   ],
-  "author": "[Author]",
+  "author": "Mike Lacy",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/issues"
   },
-  "homepage": "[GitHub url]#readme",
+  "homepage": "https://github.com/lacymj/MMM-SweetGemini#readme",
   "devDependencies": {
     "@eslint/css": "^0.8.1",
     "@eslint/js": "^9.27.0",
